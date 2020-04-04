@@ -13,3 +13,8 @@ https://stackoverflow.com/questions/17049416/what-is-the-idea-folder
 https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 These links talk about usage of .idea in gitignore . If going/working with an advanced knowledge, can decide file level gitignore for files in .idea folder but in general for basic settings and also to make project IDE independent, we can put .idea in gitignore
+
+**
+https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md
+
+Good Cheatsheet for scala
